@@ -1,0 +1,23 @@
+.owl-stage-outer{
+	height: 120px;
+	overflow: hidden !important;
+}
+
+.owl-item{
+	width: 186.666px !important;
+	height: 60px !important;
+	margin: 20px 10px !important;
+}
+
+.partner-logo a{
+	color: #FFF !important;
+}
+
+.footer-section {
+	padding-bottom: 30px !important;
+	border-top: 1px solid #ddd;
+}
+
+.text-mv {
+	color: #B0480D !important;
+}

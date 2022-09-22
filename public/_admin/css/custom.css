@@ -1,0 +1,32 @@
+/* Button Custom Styles */
+.btn-mv{
+  background-color: #ff6600 !important;
+  border-color: #ff6600 !important;
+  color: #eee !important;
+}
+
+.btn-mv:hover{
+  background-color: #E66600 !important;
+  border-color: #E66600 !important;
+  color: #eee !important;
+}
+
+/* Background Custom Styles */
+
+.bg-mv{
+  background-color: #ff6600 !important;
+}
+
+.border-left-mv, .border-right-mv{
+  border-left: 0.25rem solid #E66600 !important;
+}
+
+/* Text Custom Styles */
+
+.text-mv, .sidebar-dark .nav-item.active .nav-link i {
+  color: #ff6600 !important;
+}
+
+a{
+  color: #E66600 !important;
+}
