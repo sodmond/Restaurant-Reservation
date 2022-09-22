@@ -23,10 +23,17 @@
 
 /* Text Custom Styles */
 
-.text-mv, .sidebar-dark .nav-item.active .nav-link i {
+.text-mv, .nav-item.active i, .nav-item.active span  {
   color: #ff6600 !important;
 }
 
 a{
+  color: #E66600 !important;
+}
+.nav-link, .sidebar-brand {
+  color: #FFF !important;
+}
+
+.nav-link:hover, .nav-link:hover i {
   color: #E66600 !important;
 }

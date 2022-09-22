@@ -21,3 +21,7 @@
 .text-mv {
 	color: #B0480D !important;
 }
+
+input[type="checkbox"]{
+	accent-color: #ff6600;
+}

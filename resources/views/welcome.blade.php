@@ -6,9 +6,10 @@
         <div class="row">
             <div class="col-lg-7 pt-4">
                 <div class="section-title" style="text-align:left;">
-                    <h2 style="font-size:3.8em">Mmm...!<br>Your evening<br>will be great!</h2>
-                    <span>Consectetur numquam poro nemo veniam<br>
-                        eligendi rem adipisci quo modi. </span>
+                    <h2 style="font-size:3.8em">Trust us...!<br>Your stay<br>will be great!</h2>
+                    <span>P.S.A: 50% upfront payment is required and mandatory<br> to reserve a table. Kindly use the form to pay for your<br> 
+                        reservation.<br><br>
+                        We look forward to seeing you at Lobstercrib Restaurant.</span>
                 </div>
             </div>
             <div class="col-lg-5">

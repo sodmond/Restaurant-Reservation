@@ -41,7 +41,7 @@ class BookingsController extends Controller
         ]);
         $meta = $request->all();
         $data = [
-            'amount'    => ($request->price * 100),
+            'amount'    => ($request->price * 100)/2,
             'email'     => $request->email,
             'currency'  => 'NGN',
             'reference' => Paystack::genTranxRef(),

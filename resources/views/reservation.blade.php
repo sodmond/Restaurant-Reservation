@@ -75,7 +75,7 @@
                             </div>
                         </div>
                         <div class="col-lg-12 text-center">
-                            <button type="submit" class="site-btn">Pay ₦{{ number_format($space['price']) }}</button>
+                            <button type="submit" class="site-btn">Pay ₦{{ number_format($space['price']/2) }}</button>
                         </div>
                     </div>
                 </form>
