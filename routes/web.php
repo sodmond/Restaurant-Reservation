@@ -45,7 +45,7 @@ Route::group(['prefix' => 'admin', 'as' => 'admin.', 'middleware' => ['auth:web'
 });
 
 /*Route::get('/mailable', function () {
-    $booking = Booking::find(1);
+    $booking = Booking::find(2);
  
     return new App\Mail\BookingConfirmation($booking, 'Upstairs', 'whgejf48574554');
 });*/

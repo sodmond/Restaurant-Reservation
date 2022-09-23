@@ -1,7 +1,7 @@
 @component('mail::message')
 # Dear {{ $fname }},
 
-You have successfully completed the booking of our event center, see booking details below:
+You have successfully completed the booking of a table space in our restaurant, see booking details below:
 
 @component('mail::panel')
 <strong>Name :</strong> {{ $bookingInfo->name }}

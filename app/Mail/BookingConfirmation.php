@@ -38,6 +38,6 @@ class BookingConfirmation extends Mailable
     public function build()
     {
         return $this->markdown('emails.booking_confirmed')
-                    ->subject('Event Booking Confirmation');
+                    ->subject('Confirmation of Table Reservation');
     }
 }

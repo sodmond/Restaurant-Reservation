@@ -18,7 +18,7 @@
                         <div class="card shadow py-4">
                             <div class="card-body">
                                 <h2 class="h4">Reservation Form</h2>
-                                <p>Fill out the form below to check availability of an event space.</p>
+                                <p>Fill out the form below to check availability of a table space.</p>
                                 @if (count($errors))
                                     <div class="alert alert-danger mb-2">
                                         <strong>Whoops!</strong> Error validating data.<br>

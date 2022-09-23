@@ -7,7 +7,7 @@
             <div class="col-lg-12">
                 <div class="section-title">
                     <h2>Confirm Reservations</h2>
-                    <p>Fill out the form below to complete reservations for event space.</p>
+                    <p>Fill out the form below to complete reservations for a table.</p>
                 </div>
             </div>
         </div>
@@ -76,6 +76,7 @@
                         </div>
                         <div class="col-lg-12 text-center">
                             <button type="submit" class="site-btn">Pay ₦{{ number_format($space['price']/2) }}</button>
+                            <a href="{{ url('/') }}" class="site-btn">Cancel</a>
                         </div>
                     </div>
                 </form>
